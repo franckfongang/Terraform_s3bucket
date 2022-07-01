@@ -1,2 +1,2 @@
-# My-first-Terraform_s3bucket
+# first-Terraform_s3bucket
 my_first_s3_bucket_terraform
